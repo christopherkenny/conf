@@ -1,6 +1,6 @@
 # Conference Slides
 
-This repo is a link to slides, typically powerpoints on sharepoint.
+This repo is a link to slides, typically PowerPoints on SharePoint.
 
 ## Presentation links for APSA 2023
 
