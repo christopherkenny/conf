@@ -4,7 +4,7 @@ This repo is a link to slides, typically PowerPoints on SharePoint.
 
 ## Presentation links for APSA 2023
 
-Widespread partisan gerrymandering mostly cancels nationally, but reduces electoral competition
+[Widespread partisan gerrymandering mostly cancels nationally, but reduces electoral competition](https://hu-my.sharepoint.com/:p:/g/personal/christopherkenny_fas_harvard_edu/EZoHyZV8UDNIkYC3XWlE-N4BW9dwehPvfirOp4fY6gp14g?e=5L0CAP)
 
 ## Presentation links for MPSA 2023
 
