@@ -2,7 +2,10 @@
 
 This repo is a link to slides, typically PowerPoints on SharePoint.
 
-## APRW Fall 2023
+
+## Presentation links for MPSA 2024
+
+[Evaluating the Efficacy of Redistricting Rules](https://hu-my.sharepoint.com/:p:/g/personal/christopherkenny_fas_harvard_edu/EW2ROUI8_RhLh7jMp8yzVq0BG0bPSo0vNJWVovdFb67qUg?e=fFoVgy)
 
 
 
