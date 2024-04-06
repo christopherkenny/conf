@@ -5,7 +5,7 @@ This repo is a link to slides, typically PowerPoints on SharePoint.
 
 ## Presentation links for MPSA 2024
 
-[Evaluating the Efficacy of Redistricting Rules](https://hu-my.sharepoint.com/:p:/g/personal/christopherkenny_fas_harvard_edu/EW2ROUI8_RhLh7jMp8yzVq0BG0bPSo0vNJWVovdFb67qUg?e=fFoVgy)
+[Evaluating the Efficacy of Redistricting Rules](https://hu-my.sharepoint.com/:p:/g/personal/christopherkenny_fas_harvard_edu/EW2ROUI8_RhLh7jMp8yzVq0BHgYx3_i7_yRrJVW73bMyWQ?e=2GD1Ga)
 
 
 
