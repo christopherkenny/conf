@@ -2,6 +2,8 @@
 
 This repo is a link to slides, typically PowerPoints on SharePoint.
 
+https://hu-my.sharepoint.com/:p:/g/personal/christopherkenny_fas_harvard_edu/ERjxfzLL84dJmRwi9xBHE4QB_DshWkyQ2Z56dS93wGeB6Q?e=1xh8ox
+
 
 ## Presentation links for MPSA 2024
 
