@@ -2,6 +2,10 @@
 
 This repo is a link to slides, typically PowerPoints on SharePoint.
 
+## Presentation links for Cambridge City Open Data Review Board (September 2024)
+
+[Redistricting Reforms Reduce Gerrymandering by Constraining Partisan Actors](https://hu-my.sharepoint.com/:p:/g/personal/christopherkenny_fas_harvard_edu/EZvjX4Qf0QFLnIY-qdn6MzcBo0ez9IO0Z5C4tnFa81d_8g?e=b48eeF)
+
 ## Presentation links for MPSA 2024
 
 [Evaluating the Efficacy of Redistricting Rules](https://hu-my.sharepoint.com/:p:/g/personal/christopherkenny_fas_harvard_edu/EW2ROUI8_RhLh7jMp8yzVq0BHgYx3_i7_yRrJVW73bMyWQ?e=2GD1Ga)
