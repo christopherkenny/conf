@@ -2,6 +2,10 @@
 
 This repo is a link to slides, typically PowerPoints on SharePoint.
 
+## Presentation links for MPSA 2025
+
+[Princeiples and Partisanship](https://hu-my.sharepoint.com/:p:/g/personal/christopherkenny_fas_harvard_edu/ET1l756qMXFDkNf1BwjnN_IBOVyRHXW5j9pSqS_7ZGOlog?e=fRCHI5)
+
 ## Presentation links for Cambridge City Open Data Review Board (September 2024)
 
 [Redistricting Reforms Reduce Gerrymandering by Constraining Partisan Actors](https://hu-my.sharepoint.com/:p:/g/personal/christopherkenny_fas_harvard_edu/EZvjX4Qf0QFLnIY-qdn6MzcBo0ez9IO0Z5C4tnFa81d_8g?e=b48eeF)
